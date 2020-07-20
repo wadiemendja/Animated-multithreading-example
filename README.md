@@ -15,5 +15,3 @@ A thread is a lightweight sub-process, the smallest unit of processing. Multipro
 However, we use multithreading than multiprocessing because threads use a shared memory area. They don't allocate separate memory area so saves memory, and context-switching between the threads takes less time than process.
 
 Java Multithreading is mostly used in games, animation, etc.
-
-Please send any comments or suggestions to : https://www.instagram.com/wadiemendja
